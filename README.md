@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Sr. Software Developer
 ----------------------
 
-* 🚀  I'm currently working on [Getir](http://getir.com/)
-
 <a href="https://www.github.com/karabuluthakan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/karabuluthakan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
